@@ -57,11 +57,6 @@ export function HeroSection() {
                 <ArrowDownRight className="h-4 w-4 shrink-0" aria-hidden="true" />
               </a>
             </div>
-
-            <p className="mt-6 text-xs text-ink-500 tabular-nums">
-              Atendimento direto pelo WhatsApp {CLINIC_INFO.whatsappDisplay} · Resposta
-              rápida para consultas, vacinas e banho e tosa
-            </p>
           </FadeIn>
 
           <FadeIn immediate delay={0.1} distance={16} className="lg:col-span-6">
