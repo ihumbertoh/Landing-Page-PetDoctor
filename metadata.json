@@ -1,0 +1,6 @@
+{
+  "name": "Pet Doctor Pituba",
+  "description": "Clínica veterinária, banho e tosa e pet shop na Pituba, Salvador - BA. Agende consultas, vacinas, exames e cuidados para seu pet direto pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
